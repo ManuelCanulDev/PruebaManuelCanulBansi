@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ApiExamen/ApiExamen.csproj" Id="7bf716b6-b341-4523-b7ff-b3d49a33bca6" />
+  <Project Path="BansiExamen/BansiExamen.csproj" Id="2235f37e-e7b1-4a6d-80d9-df4cf413f829" />
+  <Project Path="WsApiExamen/WsApiExamen.csproj" Id="b074cfba-bacf-4de3-ab65-ec20db35e95f" />
+</Solution>
